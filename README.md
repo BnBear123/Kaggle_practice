@@ -4,4 +4,4 @@
 Kaggle에서 제공하는 데이터와 코드 리뷰
 
 * 2022.10.28 - Penguins
-* 2022.10.29 = California Housing Prices
+* 2022.10.29 - California Housing Prices
